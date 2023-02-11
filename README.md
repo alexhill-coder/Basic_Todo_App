@@ -17,6 +17,8 @@ To install:
 1. Download the files to a local directory. 
 2. run index.html.
 
+Alternatively you can check it out here on Github: [Click here to give it a try.](https://alexhill-coder.github.io/Basic_Todo_App/)
+
 ## How To Use
 
  - To add items to the app, type the word into the text field and click the add butoon. 
@@ -34,7 +36,7 @@ If you wish to contribute to any of my files, you are more than welcome to as lo
 
 ## License
 
-This project falls under The MIT License allowing for the use of this project for any purpose. For more information on this type of license please see the [LICENSE.md](https://github.com/alexhill-coder/task_38/blob/main/LICENSE)
+This project falls under The MIT License allowing for the use of this project for any purpose. For more information on this type of license please see the [LICENSE.md](https://github.com/alexhill-coder/Basic_Todo_App/blob/main/LICENSE)
 
 ## Credits
 
