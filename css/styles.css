@@ -1,0 +1,35 @@
+/* Increases the size of all the font on the page to make it more readable.*/
+body {
+    font-size: 20px;
+}
+
+/* Puts a line through the text and alters its color on selected items */
+.checked {
+    text-decoration: line-through;
+    color:grey;
+}
+
+/* Alters the span button to make it more in line with the intended task output while making it standout. */
+button {
+    border: none;
+    background: none;
+    font-size: 18pt;
+    padding: 0px;
+    cursor: pointer;
+}
+
+/* Makes the button bold when hovering for user feedback */
+button:hover {
+    font-weight: bold;
+}
+
+/* Helps seperate the list and span elements */
+span {
+    margin: 5pt;
+    cursor: pointer;
+}
+
+/* Makes the button bold when hovering for user feedback */
+span:hover {
+    font-weight: bold;
+}
